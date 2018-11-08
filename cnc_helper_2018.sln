@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cnc_helper_2018", "cnc_helper_2018\cnc_helper_2018.vbproj", "{93501AFA-8EF1-417F-AFA4-B855878ED1D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93501AFA-8EF1-417F-AFA4-B855878ED1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93501AFA-8EF1-417F-AFA4-B855878ED1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93501AFA-8EF1-417F-AFA4-B855878ED1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93501AFA-8EF1-417F-AFA4-B855878ED1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4C78A8-BA60-4DCB-B896-6D8EC9B1D0B8}
+	EndGlobalSection
+EndGlobal
